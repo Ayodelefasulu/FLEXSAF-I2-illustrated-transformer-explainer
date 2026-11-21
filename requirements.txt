@@ -1,0 +1,11 @@
+torch
+tiktoken
+transformers
+sentence-transformers
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pydantic
+jupyter
